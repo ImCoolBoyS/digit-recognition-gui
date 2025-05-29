@@ -8,6 +8,7 @@ SVM.KNN,CNN
 - **K-近邻算法（KNN）**：利用 scikit-learn 实现，适合初学者理解和使用。
 - **支持向量机（SVM）**：通过 scikit-learn 实现，具有较高的准确率。
 - **卷积神经网络（CNN）**：使用 TensorFlow/Keras 构建，适合处理图像数据，识别效果更佳。
+![image](https://github.com/user-attachments/assets/e517742b-3e3c-44fb-a07e-adf4f16fcf70)
 
 该项目旨在帮助用户了解不同算法在手写数字识别中的应用和效果对比。
 
