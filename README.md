@@ -40,7 +40,7 @@ pip install -r requirements.txt
 在项目根目录下，运行以下命令启动应用：
 
 ```bash
-python gui.py
+python write.py
 ```
 📝 使用说明
 在画板上手写数字。
@@ -69,4 +69,6 @@ handwriting-recognition-board/
 📷 示例截图
 ![image](https://github.com/user-attachments/assets/bfa97145-daed-4a28-aa45-f03817729b7d)
 
+
+## 有问题欢迎发邮箱问我
 
