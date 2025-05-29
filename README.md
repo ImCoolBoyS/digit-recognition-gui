@@ -67,8 +67,9 @@ handwriting-recognition-board/
 ```
 
 📷 示例截图
+
 ![image](https://github.com/user-attachments/assets/bfa97145-daed-4a28-aa45-f03817729b7d)
 
 
-## 有问题欢迎发邮箱问我
+## 有问题欢迎发邮箱问我，欢迎参考代码。
 
